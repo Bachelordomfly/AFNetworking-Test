@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "EC204EC68F1BC1162590F49F6A73C792A539D6F8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "EC204EC68F1BC1162590F49F6A73C792A539D6F8" : 0,
+    "EF51387A5AF28E4351AFB0302884600583A438B5" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "9D80A416-8949-4C54-98C8-993778F5937F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "EC204EC68F1BC1162590F49F6A73C792A539D6F8" : "AFNetworking-test\/",
+    "EF51387A5AF28E4351AFB0302884600583A438B5" : "AFNetworking-test\/AFNetworking-test\/JSONKit\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "AFNetworking-test",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "AFNetworking-test.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Bachelordomfly\/AFNetworking-test.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EC204EC68F1BC1162590F49F6A73C792A539D6F8"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/johnezang\/JSONKit.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EF51387A5AF28E4351AFB0302884600583A438B5"
+    }
+  ]
+}

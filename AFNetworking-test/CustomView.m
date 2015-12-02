@@ -2,8 +2,8 @@
 //  CustomView.m
 //  AFNetworking-test
 //
-//  Created by RenSihao on 15/11/26.
-//  Copyright © 2015年 RenSihao. All rights reserved.
+//  Created by xujiajia on 15/11/26.
+//  Copyright © 2015年 xujiajia. All rights reserved.
 //
 
 #import "CustomView.h"
@@ -36,7 +36,7 @@
     //开启3秒动画效果
     [UIView animateWithDuration:3.f animations:^{
         [self removeFromSuperview];
-        [self.superview layoutIfNeeded];
+      //  [self.superview layoutIfNeeded];
     }];
     
 }

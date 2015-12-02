@@ -2,8 +2,8 @@
 //  AppDelegate.m
 //  AFNetworking-test
 //
-//  Created by RenSihao on 15/11/25.
-//  Copyright © 2015年 RenSihao. All rights reserved.
+//  Created by xujiajia on 15/11/25.
+//  Copyright © 2015年 xujiajia. All rights reserved.
 //
 
 #import "AppDelegate.h"
